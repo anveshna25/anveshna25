@@ -92,21 +92,13 @@
 
 **🔥 Streak**
 
-<img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=anveshna25&theme=midnight-purple&hide_border=true"/>
+<img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=anveshna25&hide_border=true&background=0D0221&border=3C096C&stroke=C77DFF&ring=9D4EDD&fire=9D4EDD&currStreakLabel=C77DFF&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=E0AAFF&dates=7B2CBF"/>
 
 </div>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-**🌙 Top Languages**
-
-<img width="60%" src="profile/top-langs.svg"/>
-
-</div>
 
 <div align="center">
 
