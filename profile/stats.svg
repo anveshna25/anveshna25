@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Anveshna&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 1164, Total PRs: 16, Total PRs Merged: 16, Total PRs Reviewed: 0, Total Issues: 10, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 1166, Total PRs: 17, Total PRs Merged: 17, Total PRs Reviewed: 0, Total Issues: 10, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 198.4477794798388;
+        stroke-dashoffset: 197.7289375746286;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >16</text>
+      >17</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >16</text>
+      >17</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
