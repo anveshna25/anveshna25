@@ -134,7 +134,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 73.11%
+        JavaScript 73.10%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
@@ -148,7 +148,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 10.27%
+        Python 10.29%
       </text>
     </g>
   </g><g transform="translate(0, 96)">
@@ -173,8 +173,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="73.11"
-          d="M 60.399089759945724 123.38015310497543 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="73.09"
+          d="M 60.40757060068731 123.4508557081083 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#f1e05a"
           fill="none"
           stroke-width="12">
@@ -185,7 +185,7 @@
         <path
           data-testid="lang-donut"
           size="11.54"
-          d="M 70.10103684432322 84.37497686325766 A 56.66666666666667 56.66666666666667 0 0 0 60.399089759945724 123.38015310497543"
+          d="M 70.06049468756258 84.43351844057365 A 56.66666666666667 56.66666666666667 0 0 0 60.40757060068731 123.4508557081083"
           stroke="#663399"
           fill="none"
           stroke-width="12">
@@ -195,8 +195,8 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="10.27"
-          d="M 98.88502922707269 62.86216424281797 A 56.66666666666667 56.66666666666667 0 0 0 70.10103684432322 84.37497686325766"
+          size="10.29"
+          d="M 98.88502922707269 62.86216424281797 A 56.66666666666667 56.66666666666667 0 0 0 70.06049468756258 84.43351844057365"
           stroke="#3572A5"
           fill="none"
           stroke-width="12">
